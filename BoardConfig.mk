@@ -159,3 +159,6 @@ TARGET_SCREEN_DENSITY := 423
 
 # Mtk FM
 BOARD_HAVE_MTK_FM := true
+
+# Keys location 
+PRODUCT_DEFAULT_DEV_CERTIFICATE := device/realme/RMX2185/keys/releasekey
