@@ -97,7 +97,8 @@ PRODUCT_COPY_FILES += \
 # KPOC
 PRODUCT_PACKAGES += \
     libsuspend \
-    android.hardware.health@2.0
+    android.hardware.health@2.0 \
+    kpoc_charger
 
 # Lights
 PRODUCT_PACKAGES += \
